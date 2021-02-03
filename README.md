@@ -14,7 +14,7 @@
 
 5. ### Заголовок 3 уровня и т.д. увеличивая количество "#"
 
-[id]: Цитаты и списки
+Цитаты и списки
 ======
 ---
 1. >Это пример цитаты с неразрывным пробелом  
@@ -32,6 +32,7 @@
 	* Полупроводник
 	* Диэлектрик
 5. Элемент списка с исходным кодом:
+	>	
 		emitEvent1(): void {
 		console.log('app-mod1',this.param1);
 		this.event1.emit(this.param1);
@@ -40,6 +41,7 @@
 ***
 	<Простой блок кода>
 	
+
 	emitEvent1(): void {
 		console.log('app-mod1',this.param1);
 		this.event1.emit(this.param1);
@@ -52,6 +54,8 @@
 2. Ссылка-сноска:
 	[пример][id]
 
+[id]: http://example.com/ "Переход на example"
+
 ##Выделение текста
 ***
 *Пример*
@@ -60,7 +64,8 @@
 
 ##Вставка изображений
 ***
-![Пример вставки изображения](C:\Users\il.lukyanov\Documents\Nikolas_t\IMG_4301.jpg)
+![Пример вставки изображения](https://bs-uploads.toptal.io/blackfish-uploads/blog/common_mistakes_guide/content/cover_image_file/cover_image/15992/cover-top-18-most-common-angularjs-developer-mistakes-41f9ad303a51db70e4a5204e101e7414.png)
+
 
 ## Features
 readme.md
