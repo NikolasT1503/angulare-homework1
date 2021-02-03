@@ -79,6 +79,20 @@
 --- | --- | ---
 1 | Задание 1 | В работе | Очень много
 2 | Задание 2 | В очереди | Еще не брался
+3 | Задание 3 | В очереди | Еще предстоит
+
+| Таблицы       | Это                | Круто |
+| ------------- |:------------------:| -----:|
+| столбец 3     | выровнен вправо    | $1600 |
+| столбец 2     | выровнен по центру |   $12 |
+| зебра-строки  | прикольные         |    $1 |
+
+## Вставка видео
+***
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=26pHLqNmx3Q" target="_blank"><img src="http://img.youtube.com/vi/26pHLqNmx3Q/0.jpg" 
+alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="240" height="180" border="10" /></a>
+
+[![ALT-ТЕКСТ ИЗОБРАЖЕНИЯ](http://img.youtube.com/vi/26pHLqNmx3Q/0.jpg)](http://www.youtube.com/watch?v=26pHLqNmx3Q)
 
 ## Features
 readme.md
