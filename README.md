@@ -47,7 +47,7 @@
 		this.event1.emit(this.param1);
 	}
 
-##Ссылки
+## Ссылки
 ***
 1. Ссылка с url и текстом:
 	[Пример](http://example.com/ "Подсказка")
@@ -58,7 +58,7 @@
 
 Ссылка на адрес электронной почты: <address@example.com>
 
-##Выделение текста
+## Выделение текста
 ***
 *Пример*
 
@@ -66,7 +66,7 @@
 
 ***Полужирный курсив***
 
-##Вставка изображений
+## Вставка изображений
 ***
 ![Пример вставки изображения](https://bs-uploads.toptal.io/blackfish-uploads/blog/common_mistakes_guide/content/cover_image_file/cover_image/15992/cover-top-18-most-common-angularjs-developer-mistakes-41f9ad303a51db70e4a5204e101e7414.png)
 
