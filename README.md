@@ -42,10 +42,12 @@
 	<Простой блок кода>
 	
 
-	emitEvent1(): void {
+	```emitEvent1(): void {
 		console.log('app-mod1',this.param1);
 		this.event1.emit(this.param1);
-	}
+	}```
+	
+	Код в строке: это пример декоратора `@Input`
 
 ## Ссылки
 ***
@@ -70,6 +72,13 @@
 ***
 ![Пример вставки изображения](https://bs-uploads.toptal.io/blackfish-uploads/blog/common_mistakes_guide/content/cover_image_file/cover_image/15992/cover-top-18-most-common-angularjs-developer-mistakes-41f9ad303a51db70e4a5204e101e7414.png)
 
+## Таблицы
+***
+### Моя таблица
+№ | Задача | Статус | Примечание
+--- | --- | ---
+1 | Задание 1 | В работе | Очень много
+2 | Задание 2 | В очереди | Еще не брался
 
 ## Features
 readme.md
